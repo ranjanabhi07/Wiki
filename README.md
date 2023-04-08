@@ -6,7 +6,6 @@ REST:  REpresentational
        
 
 REST = It is an  architectural style for designing API's and it's definitely not the only architecture 
-
 #GraphQL  #SOAP  #FALCOR
 
 These two things are probabily the most important parts of making your API RESTfil.
