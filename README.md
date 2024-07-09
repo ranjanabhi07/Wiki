@@ -4,7 +4,6 @@ REST:  REpresentational
        State
        Transfer
        
-
 REST = It is an  architectural style for designing API's and it's definitely not the only architecture 
 #GraphQL  #SOAP  #FALCOR
 
